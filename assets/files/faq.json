@@ -1,0 +1,39 @@
+{
+    "faq": [
+        {
+            "_id": "61fa7ff880a56a1f6f032b9f",
+            "id": 1,
+            "q": "1. How much time it takes to tranfer money to the Customers?",
+            "a": "-> Money will be transferred to you within 72 hrs.",
+            "__v": 0
+        },
+        {
+            "_id": "61fab6a68f6090d48d68f050",
+            "id": 2,
+            "q": "2. Where should I Contact if I did not get the money in 48 hrs?",
+            "a": "-> You should fill the form provided in <Assistance> section.",
+            "__v": 0
+        },
+        {
+            "_id": "61fab6cc8f6090d48d68f052",
+            "id": 3,
+            "q": "3. Why do you charge so much fees?",
+            "a": "-> We do not charge much fees, it's google who charges 30% of your Money, we only charge a minimal fees which ranges from 6% - 50% (based on the token) to run this App properly.",
+            "__v": 0
+        },
+        {
+            "_id": "61fab6dc8f6090d48d68f054",
+            "id": 4,
+            "q": "4. How to Use your App?",
+            "a": "-> Choose any Token according to your Payout and read the description by clicking on the Proceed Button, Now Particular Token Page with full Description will open up and Now Fill up your UPI ID and click on Buy.",
+            "__v": 0
+        },
+        {
+            "_id": "61fab6ec8f6090d48d68f056",
+            "id": 5,
+            "q": "5. What can I do if I filled Wrong Payout Detail(UPI ID) and made a purchase?",
+            "a": "-> We are not responsible for the wrong details submitted by user, but this query might be resolved if you fill the form under <Assistance> section within 1 hour of your purchase.",
+            "__v": 0
+        }
+    ]
+}

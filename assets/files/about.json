@@ -1,0 +1,106 @@
+{
+    "about": [
+        {
+            "_id": "61fa5af5ecca66a5c64a305c",
+            "id": 1,
+            "l": "About CashitOut :-",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7653ca58f8d788ba5e4a",
+            "id": 2,
+            "l": "CashitOut App allows you to transfer your google play balance to PayTM wallet or UPI linked bank account.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7664ca58f8d788ba5e4c",
+            "id": 3,
+            "l": "Terms and Conditions :-",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7670ca58f8d788ba5e4e",
+            "id": 4,
+            "l": "To convert play credits you need to :-",
+            "__v": 0
+        },
+        {
+            "_id": "61fa767dca58f8d788ba5e50",
+            "id": 5,
+            "l": "1) Purchase a token via play balance in <Tokens> section of the app (if you choose any other payment mode such as debit/credit card then we are not responsible for your loss as you will get only defined percentage of the Token amount).",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7692ca58f8d788ba5e52",
+            "id": 6,
+            "l": "2) Choose payout option (UPI).",
+            "__v": 0
+        },
+        {
+            "_id": "61fa769eca58f8d788ba5e54",
+            "id": 7,
+            "l": "3) You can View your purchased token in <My Tokens> Section of the app.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76abca58f8d788ba5e56",
+            "id": 8,
+            "l": "You will also receive an automated confirmation mail from Cash It Out containing the purchased token details.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76b9ca58f8d788ba5e58",
+            "id": 9,
+            "l": "If the token is not shown in My Tokens Section but play balance was deducted from your account then you can contact us by submitting the form provided in <Assistance> section of the app.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76c5ca58f8d788ba5e5a",
+            "id": 10,
+            "l": "Minimum Payout/Conversion : You can convert/redeem minimum 5 INR.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76d0ca58f8d788ba5e5c",
+            "id": 11,
+            "l": "Payout/Conversion Charges :-",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76e2ca58f8d788ba5e5e",
+            "id": 12,
+            "l": "Google charges 30% and we take 6%-50% (Depends on Range of Tokens) of the total conversion amount.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76f0ca58f8d788ba5e60",
+            "id": 13,
+            "l": "For Example, If you want to convert 100 INR then google will charge 30 INR (30%) and we charge 10 INR (10%).",
+            "__v": 0
+        },
+        {
+            "_id": "61fa76fcca58f8d788ba5e62",
+            "id": 14,
+            "l": "Time: Usually it takes less than 72 hours to credit the converted amount to your account from the date of conversion request/order.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7709ca58f8d788ba5e64",
+            "id": 15,
+            "l": "Wrong payout detail may cause delay in payout until you raise query.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa7714ca58f8d788ba5e66",
+            "id": 16,
+            "l": "Note: We are not responsible for the wrong details submitted by user.",
+            "__v": 0
+        },
+        {
+            "_id": "61fa772bca58f8d788ba5e68",
+            "id": 17,
+            "l": "Make sure you have entered the payout details correctly.",
+            "__v": 0
+        }
+    ]
+}
