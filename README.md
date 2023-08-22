@@ -2,6 +2,9 @@
 
 An App that lets you Convert your Google Play Balance into Digital Cash.
 
+## Download the App
+[![Cash It Out](https://raw.githubusercontent.com/NishchayShakya1/CashItOutApp/master/assets/app_logo.png)](https://play.google.com/store/apps/details?id=com.nishchay.cashitout)
+
 ## Tech Stack Used :-
 
 - [Flutter](https://flutter.dev/)
